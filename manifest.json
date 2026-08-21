@@ -1,7 +1,7 @@
 {
-  "version": "0.8.0",
-  "download_url": "https://wpupdates.bulldogs.digital/bulldogs-site-worker-0.8.0.zip",
-  "sha256": "c34bb98a3972cf14b1362f74ae2ac06f727188f9cd16085042c61bbbfc1b3123",
+  "version": "0.8.1",
+  "download_url": "https://wpupdates.bulldogs.digital/bulldogs-site-worker-0.8.1.zip",
+  "sha256": "68d6f8f618ab3d1d33cbcfc71bea607e1be430203016792275a74c5fe7dee94f",
   "requires": "6.5",
   "tested": "6.8",
   "requires_php": "8.1"

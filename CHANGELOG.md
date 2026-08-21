@@ -1,3 +1,9 @@
+## 0.8.1 - 2026-08-21
+
+- Zip: https://wpupdates.bulldogs.digital/bulldogs-site-worker-0.8.1.zip
+- SHA-256: `68d6f8f618ab3d1d33cbcfc71bea607e1be430203016792275a74c5fe7dee94f`
+- Built from the private source repo at commit 637ad129a65f54d203a2cbeef6f866d71a08903c
+
 ## 0.8.0 - 2026-08-21
 
 - Zip: https://wpupdates.bulldogs.digital/bulldogs-site-worker-0.8.0.zip
