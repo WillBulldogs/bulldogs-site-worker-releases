@@ -1,3 +1,9 @@
+## 0.10.0 - 2026-10-12
+
+- Zip: https://wpupdates.bulldogs.digital/bulldogs-site-worker-0.10.0.zip
+- SHA-256: `bf8795254a3b834d71bb17ef126d6389e6bb5b4f2b163db79bb62d6c5b296d01`
+- Built from the private source repo at commit fba939be680e16b0741b6aaaa653830a4114408c
+
 ## 0.9.1 - 2026-09-25
 
 - Zip: https://wpupdates.bulldogs.digital/bulldogs-site-worker-0.9.1.zip
